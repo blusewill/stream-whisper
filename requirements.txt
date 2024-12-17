@@ -1,0 +1,5 @@
+faster-whisper
+ctranslate2==4.4.0
+SpeechRecognition
+pyaudio
+inquirer
